@@ -7,3 +7,9 @@ When playing the app game "Letter Press," given the board letters it can either 
 //HOW TO USE:
 
 ***To come*** NOTE: List of letters vs. rows and columns of letter.
+
+//IMPORTANT:
+
+There is a great txt file full of American English words listed.
+The file is at this time too big to be previewed here on GitHub, but you may open the raw version on your browser. Feel free to download the file itself for some projects you may utilize. Credit given to author of: http://svnweb.freebsd.org/base/head/share/dict/
+
