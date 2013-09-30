@@ -1,7 +1,9 @@
 Letter Press Cheat:
 
 //PURPOSE:
+
 When playing the app game "Letter Press," given the board letters it can either populate the best words, or if given a "must have" letter, it will populate the best word using that word.
 
 //HOW TO USE:
-***To come**
+
+***To come*** NOTE: List of letters vs. rows and columns of letter.
